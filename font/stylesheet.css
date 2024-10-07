@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Cagier personal use';
+    src: url('Cagierpersonaluse.eot');
+    src: url('Cagierpersonaluse.eot?#iefix') format('embedded-opentype'),
+        url('Cagierpersonaluse.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
